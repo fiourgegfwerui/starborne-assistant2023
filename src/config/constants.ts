@@ -9,8 +9,8 @@ export default {
 	VERSION_VALUE: "0.1.1.1650",
 	ENDPOINTS: {
 		AUTH: "https://auth-live.starborne.com/connect/token",
-		LIST_GAMES: "https://sba.starborne.com/api/Player/GetGames",
-		JOIN_SERVER: "https://sba.starborne.com/api/Player/joinserver"
+		LIST_GAMES: "https://api2.patchkit.net/1/apps/77a839cff48f76c627e552173b3b4cdf/api/player/getgames",
+		JOIN_SERVER: "https://api2.patchkit.net/1/apps/77a839cff48f76c627e552173b3b4cdf/api/player/joinserver"
 	},
 	GAME_ENDPOINTS: {
 		WEBSOCKET: "/GameHub",
