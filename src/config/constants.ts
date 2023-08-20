@@ -1,5 +1,5 @@
 export default {
-	API_URL: "https://sba.starborne.com/",
+	API_URL: "https://auth-live.starborne.com",
 	//WEBSOCKET_HUB_URL: "https://enxdpe3e4try.x.pipedream.net",
 	//WEBSOCKET_HUB_URL: "https://starbornegameserver-live-01.azurewebsites.net/GameHub",
 	//VERSION_VALUE: "0.11.14.1558",
@@ -9,8 +9,8 @@ export default {
 	VERSION_VALUE: "0.1.1.1650",
 	ENDPOINTS: {
 		AUTH: "https://auth-live.starborne.com/connect/token",
-		LIST_GAMES: "https://sba.starborne.com/api/Player/GetGames",
-		JOIN_SERVER: "https://sba.starborne.com/api/Player/JoinServer"
+		LIST_GAMES: "https://auth-live.starborne.com/api/Player/GetGames",
+		JOIN_SERVER: "https://auth-live.starborne.com/api/Player/Joinserver"
 	},
 	GAME_ENDPOINTS: {
 		WEBSOCKET: "/GameHub",
