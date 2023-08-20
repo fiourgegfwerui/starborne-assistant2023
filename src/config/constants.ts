@@ -8,7 +8,7 @@ export default {
 	PATCHKIT_CLIENT_SECRET: "ed6557e211c93919d637b61e7278fbcf",
 	VERSION_VALUE: "0.1.1.1650",
 	ENDPOINTS: {
-		AUTH: "https://auth-live.starborne.com/login",
+		AUTH: "https://auth-live.starborne.com/connect/token",
 		LIST_GAMES: "https://sba.starborne.com/api/Player/GetGames",
 		JOIN_SERVER: "https://sba.starborne.com/api/Player/JoinServer"
 	},
