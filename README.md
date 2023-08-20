@@ -5,10 +5,7 @@ Mobile client for the game [Starborne](https://starborne.com), built in react-na
 This app only communicates with the official starborne servers, and user data is not sent anywhere else. 
 
 # Building from source
-You can build the app with `expo build:android -type apk`, you just need an Expo account.
-
-# Discord
-The best way to contact me with questions is through the discord server for the app: https://discord (dot) gg/tNDr7Db
+You can build the app with ` eas build -p android --profile preview`, you just need an Expo account.
 
 # FAQ
 - Q: Is my data safe?
