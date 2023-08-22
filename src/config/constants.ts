@@ -1,5 +1,5 @@
 export default {
-	API_URL: "https://auth-live.starborne.com",
+	API_URL: "https://sba.starborne.com",
 	//WEBSOCKET_HUB_URL: "https://enxdpe3e4try.x.pipedream.net",
 	//WEBSOCKET_HUB_URL: "https://starbornegameserver-live-01.azurewebsites.net/GameHub",
 	//VERSION_VALUE: "0.11.14.1558",
